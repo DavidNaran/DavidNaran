@@ -1,8 +1,8 @@
 ### David Naranjo Mateos
 
-Graduado en Ingeniería Informática por la UC3M (2026). Me interesan los problemas que se resuelven modelándolos: formularlos con sus restricciones, elegir el algoritmo o el modelo adecuado y comprobar con datos si la solución funciona. Busco mi primer puesto en optimización, algoritmos o machine learning.
+Graduado en Ingeniería Informática por la UC3M (2026). Me interesan los problemas que se resuelven modelándolos: formularlos con sus restricciones, elegir el algoritmo o el modelo adecuado y comprobar con datos si la solución funciona. Busco mi primera oportunidad en ciencia de datos o machine learning aplicado, donde pueda combinar análisis de datos, programación en Python y evaluación rigurosa de modelos. También me interesan los problemas de optimización.
 
-*Computer Science and Engineering graduate (UC3M, 2026), looking for a first role in optimization, algorithms or machine learning.*
+*Computer Science and Engineering graduate (UC3M, 2026). I’m looking for my first role in data science or applied machine learning, combining data analysis, Python development and rigorous model evaluation. I’m also interested in optimization problems.*
 
 #### Proyectos
 
