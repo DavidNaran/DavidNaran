@@ -12,11 +12,13 @@ Graduado en Ingeniería Informática por la UC3M (2026). Me interesan los proble
 | [airline-optimization](https://github.com/DavidNaran/airline-optimization) | Tres problemas de una aerolínea resueltos con programación lineal entera, satisfacción de restricciones y A* | GLPK, Python |
 | [employee-attrition-prediction](https://github.com/DavidNaran/employee-attrition-prediction) | Predicción de abandono de empleados con datos desbalanceados: *balanced accuracy* de 0,854 en test | scikit-learn, pandas |
 | [waste-classification](https://github.com/DavidNaran/waste-classification) | Clasificación de residuos en imagen con *transfer learning* (92,3&nbsp;% con ResNet50V2) y detección con YOLO | TensorFlow/Keras |
+| [seeds-clustering](https://github.com/DavidNaran/seeds-clustering) | Comparación de K-Means, clustering jerárquico y DBSCAN sobre 210 semillas de trigo: el jerárquico recupera las tres variedades (homogeneidad 0,71) | scikit-learn, SciPy |
+| [coffee-ecommerce-sql](https://github.com/DavidNaran/coffee-ecommerce-sql) | Base de datos de una tienda en línea: modelo de 16 tablas, migración de datos, consultas de ventas, paquete PL/SQL y disparadores | Oracle, SQL, PL/SQL |
 | [c-subset-translator](https://github.com/DavidNaran/c-subset-translator) | Traductor de un subconjunto de C a Lisp y Forth | C, Bison |
 
 #### Tecnologías
 
-Python · C · Bash · scikit-learn · TensorFlow/Keras · pandas · NumPy · SciPy · Matplotlib · GLPK · Docker · Git · Linux
+Python · SQL · PL/SQL · C · Bash · scikit-learn · TensorFlow/Keras · pandas · NumPy · SciPy · Matplotlib · GLPK · Docker · Git · Linux
 
 #### Contacto
 
